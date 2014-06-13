@@ -1,4 +1,7 @@
-watin
+WatiN
 =====
 
-watin experiences
+WatiN experiences
+=====
+
+1st Test - Google WatiN
